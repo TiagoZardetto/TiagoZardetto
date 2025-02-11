@@ -1,5 +1,5 @@
 ![Digital Tools](https://static.vecteezy.com/system/resources/previews/008/300/450/large_2x/abstract-futuristic-connecting-dots-and-lines-on-dark-blue-background-digital-technology-concept-big-data-visualization-digital-dynamic-wave-of-particles-3d-illustration-free-photo.jpg)
-![Card](https://cardivo.alexrogalskiy.vercel.app/api?name=Tiago%20Zardetto&description=Front-End%20Developer&image=https://avatars.githubusercontent.com/u/105249408?v=4&backgroundColor=#F2F0EF&github=TiagoZardetto&pattern=texture&opacity=0.4&colorPattern=grey&fontColor=%0062DD)
+![Card](https://cardivo-alexrogalskiy.vercel.app/api?name=Tiago%20Zardetto&description=Front-End%20Developer&image=https://avatars.githubusercontent.com/u/105249408?v=4&backgroundColor=%23F2F0EF&github=TiagoZardetto&colorPattern=grey&fontColor=%230062dd&linkedin=tiago-zardetto)
 #
 ### 🚀 Languages and Tools</summary>
 <p align="left">
