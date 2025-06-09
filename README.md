@@ -1,4 +1,4 @@
-![Card](https://cardivo-alexrogalskiy.vercel.app/api?name=Tiago%20Zardetto&description=Data-Analyst%20&image=https://avatars.githubusercontent.com/u/105249408?v=4&backgroundColor=%FFFDD0&github=TiagoZardetto&colorPattern=grey&fontColor=%fffdd0&linkedin=tiago-zardetto)
+![Card](https://cardivo-alexrogalskiy.vercel.app/api?name=Tiago%20Zardetto&description=Data-Analyst%20&image=https://avatars.githubusercontent.com/u/105249408?v=4&backgroundColor=%FFFDD0&github=TiagoZardetto&colorPattern=grey&fontColor=%ffffff&linkedin=tiago-zardetto)
 #
 ### 🚀 Languages and Tools</summary>
 <p align="left">
