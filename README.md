@@ -1,6 +1,3 @@
-![Card](https://cardivo-alexrogalskiy.vercel.app/api?name=Tiago%20Zardetto&description=Data‑Analyst&image=https://avatars.githubusercontent.com/u/105249408?v=4&backgroundColor=000000&fontColor=000000&linkedin=tiago-zardetto)
-
-#
 ### 🚀 Languages and Tools</summary>
 <p align="left">
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" alt="MySQL"/>
