@@ -1,4 +1,10 @@
-### 🚀 Languages and Tools</summary>
+### 🧑🏻‍💻 Resumo Profissional</summary>
+Graduado em Ciências da Computação, com experiências profissionais como **Front-End** e **Desenvolvedor Full Stack**
+Durante minha trajetória atuei com ferramentas como React.Js, JavaScript ES6+, Tailwind CSS, BootStrap, Node.Js, My SQL Server e Fast API
+Como desenvolvedor Front - End e Full Stack utilizei boas práticas de desenvolvimento seguindo padrões de excelência, com foco em orientação a processos, organização e melhora contínua.
+Trabalhei de forma colaborativa, atuando como elo técnico entre áreas de Desenvolvimento e Comercial.
+
+### 🚀 Linguagens e Ferramentas</summary>
 <p align="left">
 <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" />
 <img width="25" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" />
@@ -10,7 +16,7 @@
 <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" alt="C#" />
 </p>
 
-### 😄 Let's connect!
+### 😄 Vamos nos conectar!
 
 <p align="left">
 
