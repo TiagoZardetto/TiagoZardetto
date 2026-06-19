@@ -1,6 +1,7 @@
 ### 🧑🏻‍💻 Resumo Profissional</summary>
 Graduado em Ciências da Computação, com experiências profissionais como **Front-End** e **Desenvolvedor Full Stack**
-Durante minha trajetória atuei com ferramentas como React.Js, JavaScript ES6+, Tailwind CSS, BootStrap, Node.Js, My SQL Server e Fast API
+Durante minha trajetória atuei com ferramentas como React.Js, JavaScript ES6+, Tailwind CSS, BootStrap, Node.Js, My SQL Server e Fast API.
+
 Como desenvolvedor Front - End e Full Stack utilizei boas práticas de desenvolvimento seguindo padrões de excelência, com foco em orientação a processos, organização e melhora contínua.
 Trabalhei de forma colaborativa, atuando como elo técnico entre áreas de Desenvolvimento e Comercial.
 
