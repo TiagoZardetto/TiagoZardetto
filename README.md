@@ -1,20 +1,34 @@
-### 🧑🏻‍💻 Resumo Profissional</summary>
-Graduado em Ciências da Computação, com experiências profissionais como **Front-End** e **Desenvolvedor Full Stack**
-Durante minha trajetória atuei com ferramentas como React.Js, JavaScript ES6+, Tailwind CSS, BootStrap, Node.Js, My SQL Server e Fast API.
+🧪 QA / Software Quality | 💻 Software Developer
 
-Como desenvolvedor Front - End e Full Stack utilizei boas práticas de desenvolvimento seguindo padrões de excelência, com foco em orientação a processos, organização e melhora contínua.
-Trabalhei de forma colaborativa, atuando como elo técnico entre áreas de Desenvolvimento e Comercial.
+Graduado em Ciências da Computação, com experiência em Qualidade de Software / Quality Assurance (QA) e também desenvolvimento de aplicações web modernas.
+Minha experiência com desenvolvimento me permite compreender o software desde sua construção até a validação de suas funcionalidades, e atualmente estou direcionando meus estudos para **testes**, **qualidade** e **melhoria contínua** de software.
+
+##🧪 QA & Software Quality
+
+Atualmente, estou aprofundando meus conhecimentos em:
+
+Testes funcionais
+Casos e cenários de teste
+Testes de regressão
+Smoke testing
+Testes exploratórios
+Testes de integração
+Identificação e documentação de bugs
+Análise de requisitos
+Estratégias e planejamento de testes
+Qualidade de Software
+Automação de testes
+
+Em meus repositórios mostro minha evolução contínua para QA, contendo casos de teste, cenários, relatórios de bugs, estratégias de testes e outros materiais desenvolvidos com base em meus estudos e também experiência profissional.
 
 ### 🚀 Linguagens e Ferramentas</summary>
 <p align="left">
 <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" />
-<img width="25" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" />
-<img height="25" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" title="Bootstrap" alt="Bootstrap">
-<img width="25" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" />
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" alt="MySQL"/>
 <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL alt="PostgreSQL" />
 <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="GIT" alt="GIT">
 <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" alt="C#" />
+<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" title="Cypress" alt="Cypress" />
 </p>
 
 ### 😄 Vamos nos conectar!
