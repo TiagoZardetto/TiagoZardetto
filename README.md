@@ -10,14 +10,19 @@ Minha experiência com desenvolvimento também me permite compreender o software
 ### 🛠️ Tecnologias
 
 **QA e Testes:** Testes Funcionais | Testes Exploratórios | Testes de Regressão | Testes de Integração | Automação
+
 **Frontend:** React | Next.js | TypeScript | JavaScript | Tailwind CSS
+
 **Backend:** Python | FastAPI | Node.js
+
 **Bancos de Dados:** PostgreSQL | SQL Server | MongoDB
 
 ### 🚀 Projetos em destaque
 
 🧪 **Análise de Testes - QA** — Casos de teste, cenários, documentação, automação e práticas de Quality Assurance.
+
 🏀 **NBA Website** — Aplicação web desenvolvida com React e TypeScript.
+
 📊 **Dashboard Aluguéis Brasil** — Projeto de análise e visualização de dados.
 
 ### 🚀 Linguagens e Ferramentas</summary>
