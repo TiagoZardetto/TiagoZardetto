@@ -9,25 +9,21 @@ Minha experiência com desenvolvimento também me permite compreender o software
 
 ### 🛠️ Tecnologias
 
-**QA:** Testes Funcionais • Testes Exploratórios • Testes de Regressão • Testes de Integração • Automação
+**QA:** Testes Funcionais | Testes Exploratórios | Testes de Regressão | Testes de Integração | Automação
 
-**Frontend:** React • Next.js • TypeScript • JavaScript • Tailwind CSS
+**Frontend:** React | Next.js | TypeScript | JavaScript | Tailwind CSS
 
-**Backend:** Python • FastAPI • Node.js • PHP
+**Backend:** Python | FastAPI | Node.js
 
-**Database:** PostgreSQL • MySQL • SQL Server • MongoDB
+**Bancos de Dados:** PostgreSQL | SQL Server | MongoDB
 
 ### 🚀 Projetos em destaque
 
-🧪 **QA Testing Portfolio** — Casos de teste, cenários, documentação, automação e práticas de Quality Assurance.
+🧪 **Análise de Testes - QA** — Casos de teste, cenários, documentação, automação e práticas de Quality Assurance.
 
 🏀 **NBA Website** — Aplicação web desenvolvida com React e TypeScript.
 
 📊 **Dashboard Aluguéis Brasil** — Projeto de análise e visualização de dados.
-
-### 📫 Vamos nos conectar?
-
-[LinkedIn](SEU_LINKEDIN)
 
 
 ### 🚀 Linguagens e Ferramentas</summary>
@@ -40,7 +36,7 @@ Minha experiência com desenvolvimento também me permite compreender o software
 <img height="25" src="https://github.com/pheralb/svgl/blob/main/static/library/cypress.svg" title="Cypress" alt="Cypress" />
 </p>
 
-### 😄 Vamos nos conectar!</summary>
+### 😄 Vamos nos conectar?</summary>
 
 <p align="left">
 
