@@ -3,20 +3,19 @@ QA / Analista de Qualidade | Analista de Testes | 💻
 Graduado em Ciências da Computação, com experiência em Qualidade de Software / Quality Assurance (QA) e também desenvolvimento de aplicações web modernas.
 Minha experiência com desenvolvimento me permite compreender o software desde sua construção até a validação de suas funcionalidades, e atualmente estou direcionando meus estudos para **testes**, **qualidade** e **melhoria contínua** de software.
 
+
 🧪 QA & Software Quality
 Atualmente, estou aprofundando meus conhecimentos em:
-
-Testes funcionais
-Casos e cenários de teste
-Testes de regressão
-Smoke testing
-Testes exploratórios
-Testes de integração
-Identificação e documentação de bugs
-Análise de requisitos
-Estratégias e planejamento de testes
-Qualidade de Software
-Automação de testes
+- Testes funcionais
+- Casos e cenários de teste
+- Testes de regressão
+- Smoke testing
+- Testes exploratórios
+- Testes de integração
+- Identificação e documentação de bugs
+- Análise de requisitos
+- Estratégias e planejamento de testes
+- Automação de testes
 
 Em meus repositórios mostro minha evolução contínua para QA, contendo casos de teste, cenários, relatórios de bugs, estratégias de testes e outros materiais desenvolvidos com base em meus estudos e também experiência profissional.
 
