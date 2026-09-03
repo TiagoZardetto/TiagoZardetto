@@ -28,7 +28,8 @@ Em meus repositórios mostro minha evolução contínua para QA, contendo casos 
 <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" alt="C#" />
 <img height="25" src="https://github.com/pheralb/svgl/blob/main/static/library/cypress.svg" title="Cypress" alt="Cypress" />
 </p>
-### 😄 Vamos nos conectar!
+
+### 😄 Vamos nos conectar!</summary>
 
 <p align="left">
 
