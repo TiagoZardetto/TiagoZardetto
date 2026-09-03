@@ -1,7 +1,7 @@
 
 ### 🧪 QA / Software Quality | 💻 Software Developer
 
-Sou estudante de Ciência da Computação e desenvolvedor de software, com experiência em aplicações web e interesse crescente em **Qualidade de Software e Quality Assurance**.
+Sou graduado em Ciência da Computação, com experiências profissionais em Desenvolvimento Web e **Analista de Qualidade**, interesse em atuar como profissional de **Qualidade de Software e Quality Assurance**.
 
 Atualmente, estou aprofundando meus conhecimentos em **testes funcionais, casos e cenários de teste, testes exploratórios, regressão, integração e automação de testes**.
 
