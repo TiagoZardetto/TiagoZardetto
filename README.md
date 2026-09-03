@@ -3,8 +3,7 @@
 Graduado em Ciências da Computação, com experiência em Qualidade de Software / Quality Assurance (QA) e também desenvolvimento de aplicações web modernas.
 Minha experiência com desenvolvimento me permite compreender o software desde sua construção até a validação de suas funcionalidades, e atualmente estou direcionando meus estudos para **testes**, **qualidade** e **melhoria contínua** de software.
 
-##🧪 QA & Software Quality
-
+🧪 QA & Software Quality
 Atualmente, estou aprofundando meus conhecimentos em:
 
 Testes funcionais
@@ -28,7 +27,7 @@ Em meus repositórios mostro minha evolução contínua para QA, contendo casos 
 <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL alt="PostgreSQL" />
 <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="GIT" alt="GIT">
 <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" alt="C#" />
-<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" title="Cypress" alt="Cypress" />
+<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" title="Cypress" alt="Cypress" />
 </p>
 
 ### 😄 Vamos nos conectar!
