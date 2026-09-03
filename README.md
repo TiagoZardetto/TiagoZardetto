@@ -25,6 +25,7 @@ Em meus repositórios mostro minha evolução contínua para QA, contendo casos 
 Minha experiência anterior com desenvolvimento contribui para minha atuação em QA, permitindo compreender aspectos técnicos da aplicação, APIs, bancos de dados e arquitetura de software.
 
 Possuo experiência profissional com:
+
 **Frontend**:
 - React
 - Next.js
