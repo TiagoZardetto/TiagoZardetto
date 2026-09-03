@@ -19,28 +19,29 @@ Atualmente, estou aprofundando meus conhecimentos em:
 
 Em meus repositórios mostro minha evolução contínua para QA, contendo casos de teste, cenários, relatórios de bugs, estratégias de testes e outros materiais desenvolvidos com base em meus estudos e também experiência profissional.
 
+
 💻 Desenvolvimento
 
 Minha experiência anterior com desenvolvimento contribui para minha atuação em QA, permitindo compreender aspectos técnicos da aplicação, APIs, bancos de dados e arquitetura de software.
 
-Possuo experiência com:
+Possuo experiência profissional com:
 **Frontend**:
-React
-Next.js
-TypeScript
-JavaScript
-Tailwind CSS
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
 
 **Backend**:
 
-Node.js
-Python
-FastAPI
+- Node.js
+- Python
+- FastAPI
 
 **Banco de Dados**:
-PostgreSQL
-SQL Server
-MongoDB
+- PostgreSQL
+- SQL Server
+- MongoDB
 
 ### 🚀 Linguagens e Ferramentas</summary>
 <p align="left">
