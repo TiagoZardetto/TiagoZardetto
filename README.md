@@ -1,4 +1,4 @@
-🧪 QA / Software Quality | 💻 Software Developer
+QA / Analista de Qualidade | Analista de Testes | 💻 
 
 Graduado em Ciências da Computação, com experiência em Qualidade de Software / Quality Assurance (QA) e também desenvolvimento de aplicações web modernas.
 Minha experiência com desenvolvimento me permite compreender o software desde sua construção até a validação de suas funcionalidades, e atualmente estou direcionando meus estudos para **testes**, **qualidade** e **melhoria contínua** de software.
