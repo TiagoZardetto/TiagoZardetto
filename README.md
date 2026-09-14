@@ -19,9 +19,9 @@ Minha experiência com desenvolvimento também me permite compreender o software
 
 ### 🚀 Projetos em destaque
 
-🧪 **Análise de Testes - QA** — Casos de teste, cenários, documentação, automação e práticas de Quality Assurance.
+**Análise de Testes - QA** — Casos de teste, cenários, documentação, automação e práticas de Quality Assurance.
 
-🏀 **NBA Website** — Aplicação web desenvolvida com React e TypeScript.
+**NBA Website** — Aplicação web desenvolvida com React e TypeScript.
 
 ### 🚀 Linguagens e Ferramentas</summary>
 <p align="left">
