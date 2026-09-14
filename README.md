@@ -35,8 +35,10 @@ Minha experiência com desenvolvimento também me permite compreender o software
 ### 😄 Vamos nos conectar?</summary>
 
 <p align="left">
+  
 <a href="https://linkedin.com/in/tiago-zardetto/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 [![GitHub followers](https://img.shields.io/github/followers/TiagoZardetto.svg?style=social&label=Follow)](https://github.com/TiagoZardetto?tab=followers)
 <a href="https://wa.me/5513997012102"><img alt="Static Badge" src="https://img.shields.io/badge/WhatsApp-grey?logo=whatsapp"></a>
+
 </p>
 
