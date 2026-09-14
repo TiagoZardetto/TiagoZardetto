@@ -23,8 +23,6 @@ Minha experiência com desenvolvimento também me permite compreender o software
 
 🏀 **NBA Website** — Aplicação web desenvolvida com React e TypeScript.
 
-📊 **Dashboard Aluguéis Brasil** — Projeto de análise e visualização de dados.
-
 ### 🚀 Linguagens e Ferramentas</summary>
 <p align="left">
 <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" />
