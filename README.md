@@ -26,21 +26,17 @@ Minha experiência com desenvolvimento também me permite compreender o software
 ### 🚀 Linguagens e Ferramentas</summary>
 <p align="left">
 <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" />
+<img height="25" src="https://github.com/pheralb/svgl/blob/main/static/library/cypress.svg" title="Cypress" alt="Cypress" />
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" alt="MySQL"/>
 <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL alt="PostgreSQL" />
 <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="GIT" alt="GIT">
-<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" alt="C#" />
-<img height="25" src="https://github.com/pheralb/svgl/blob/main/static/library/cypress.svg" title="Cypress" alt="Cypress" />
 </p>
 
 ### 😄 Vamos nos conectar?</summary>
 
 <p align="left">
-
 <a href="https://linkedin.com/in/tiago-zardetto/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 [![GitHub followers](https://img.shields.io/github/followers/TiagoZardetto.svg?style=social&label=Follow)](https://github.com/TiagoZardetto?tab=followers)
 <a href="https://wa.me/5513997012102"><img alt="Static Badge" src="https://img.shields.io/badge/WhatsApp-grey?logo=whatsapp"></a>
-
-
 </p>
 
