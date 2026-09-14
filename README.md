@@ -1,5 +1,5 @@
 
-### 🧪 QA / Software Quality | 💻 Software Developer
+### 🧪 QA / Software Quality | QA Engineering
 
 Sou graduado em Ciência da Computação, com experiências profissionais em Desenvolvimento Web e **Analista de Qualidade**, interesse em atuar como profissional de **Qualidade de Software e Quality Assurance**.
 
