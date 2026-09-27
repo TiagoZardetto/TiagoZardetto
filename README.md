@@ -11,8 +11,6 @@ Minha experiência com desenvolvimento também me permite compreender o software
 
 **QA e Testes:** Testes Funcionais | Testes Exploratórios | Testes de Regressão | Testes de Integração | Automação
 
-**Frontend:** React | Next.js | TypeScript | JavaScript | Tailwind CSS
-
 **Backend:** Python | FastAPI | Node.js
 
 **Bancos de Dados:** PostgreSQL | SQL Server | MongoDB
