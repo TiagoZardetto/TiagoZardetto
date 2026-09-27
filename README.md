@@ -17,7 +17,7 @@ Minha experiência com desenvolvimento também me permite compreender o software
 
 ### 🚀 Projetos em destaque
 
-**Análise de Testes - QA** — Casos de teste, cenários, documentação, automação e práticas de Quality Assurance.
+**Automação de Testes utilizando Playwright** — Casos de teste, cenários, documentação, automação e práticas de Quality Assurance.
 
 **NBA Website** — Aplicação web desenvolvida com React e TypeScript.
 
