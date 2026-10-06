@@ -1,11 +1,8 @@
-
 ### 🧪 Analista de QA Júnior | QA / Software Quality | QA Engineering
 
 Analista de Qualidade, graduado em Ciência da Computação.
 
 Atualmente, estou aprofundando meus conhecimentos em **testes funcionais, casos e cenários de teste, testes exploratórios, regressão, integração e automação de testes**.
-
-Minha experiência com desenvolvimento também me permite compreender o software pelo lado técnico, desde sua construção até sua validação.
 
 ### 🛠️ Tecnologias
 
@@ -14,12 +11,6 @@ Minha experiência com desenvolvimento também me permite compreender o software
 **Backend:** Python | FastAPI | Node.js
 
 **Bancos de Dados:** PostgreSQL | SQL Server | MongoDB
-
-### 🚀 Projetos em destaque
-
-**Automação de Testes utilizando Playwright** — Casos de teste, cenários, documentação, automação e práticas de Quality Assurance.
-
-**NBA Website** — Aplicação web desenvolvida com React e TypeScript.
 
 ### 🚀 Linguagens e Ferramentas</summary>
 <p align="left">
